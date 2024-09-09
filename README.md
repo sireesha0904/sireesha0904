@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Modi Sireesha! 👋</h1>
-<h3 align="center">Computer Science Engineering Student | Full Stack Developer | Aspiring Data Scientist</h3>
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer | Prompt Engineer</h3>
 
 <p align="center">
   <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-blue" alt="Email"></a>
-  <a href="https://linkedin.com/in/modi-sireesha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+  <a href="[https://linkedin.com/in/modi-sireesha](https://www.linkedin.com/in/modi-sireesha-63ba47279/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
   <a href="https://twitter.com/_sireeshamodi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-@_sireeshamodi_-1DA1F2?logo=twitter&style=flat-square" alt="Twitter"></a>
   <a href="https://instagram.com/sireesha_modi" target="_blank"><img src="https://img.shields.io/badge/Instagram-@sireesha_modi-E4405F?logo=instagram&style=flat-square" alt="Instagram"></a>
 </p>
@@ -12,25 +12,22 @@
 
 ## 🌟 About Me
 
-I’m a **Computer Science Engineering** student with a deep passion for **Full Stack Development** and an expanding interest in **Data Science**. With hands-on experience in AI tools and prompt engineering, I am always eager to dive into new technologies and enhance my skill set.
+🌱 I’m a **Computer Science Engineering** student with a deep passion for **Full Stack Development** and an expanding interest in **Data Science**. With hands-on experience in AI tools and prompt engineering, I am always eager to dive into new technologies and enhance my skill set.
 
-🌱 **Currently Learning:** Data Science, AI tools for Excel, Power BI
 
 ---
 
 ## 🚀 My Skills
 
 - **Full Stack Development:** Crafting responsive and dynamic web applications.
-- **AI and Machine Learning:** Practical experience in implementing AI tools.
-- **Prompt Engineering:** Specializing in creating optimized AI prompts.
-- **Data Science:** Foundation knowledge with a focus on expanding my expertise.
+- **Prompt Engineering:** Specializing in creating optimized AI prompts and Practical experience in implementing AI tools.
 
 ### 💬 Ask me about:
 
 - **Frontend:** HTML, CSS, JavaScript, Angular, TypeScript
-- **Backend:** Node.js, Python, Java, C, Spring
+- **Backend:** Node.js, Python, Java, C, Spring, Spring boot
 - **Database:** MongoDB, MySQL, SQLite
-- **Others:** Bootstrap, Materialize CSS
+- **Others:** Bootstrap
 
 ---
 
