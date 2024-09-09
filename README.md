@@ -12,9 +12,9 @@
 
 ## 🌟 About Me
 
-🌱 I’m a **Computer Science Engineering** student with a deep passion for **Full Stack Development** and an expanding interest in **Data Science**. With hands-on experience in AI tools and prompt engineering, I am always eager to dive into new technologies and enhance my skill set.
+🌱 I’m a **Computer Science Engineering** student with a deep passion for **Full Stack Development** and **Artificial Intelligence**. With hands-on experience in AI tools and prompt engineering, I am continuously exploring ways to integrate AI into software and web development.
 
-🎯 Currently, I’m focusing on mastering advanced **Full Stack Development** techniques and exploring the potential of **Machine Learning** in real-world applications.
+🎯 Currently, I’m focusing on mastering advanced **Full Stack Development** techniques while exploring how AI can enhance the user experience and functionality of applications.
 
 ---
 
@@ -27,12 +27,12 @@
 
 ### 🧠 AI & Prompt Engineering
 - Specializing in creating optimized AI prompts
-- Practical experience in implementing AI tools
+- Practical experience in integrating AI into web and software solutions
 
 ### 💬 Ask me about:
 - **Frontend Frameworks:** Angular, Bootstrap
 - **Backend Development:** RESTful APIs, Microservices, Spring Boot
-- **Database Management:** MongoDB, SQL
+- **AI Integration:** Implementing AI in full stack projects
 
 ---
 
@@ -65,4 +65,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sireesha0904&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer" alt="Typing SVG">
 </p>
