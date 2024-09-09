@@ -1,4 +1,8 @@
 <h1 align="center">Hi there, I'm Modi Sireesha! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=30&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer" alt="Typing SVG">
+</p>
+
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | Prompt Engineer</h3>
 
 <p align="center">
@@ -65,10 +69,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sireesha0904&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer" alt="Typing SVG">
 </p>
