@@ -96,9 +96,3 @@
 
 ---
 
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-</p>
