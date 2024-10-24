@@ -63,8 +63,8 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" title="Spring Boot"/>
+  <a href="https://spring.io/projects/spring" target="_blank">
+    <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" title="Spring"/>
   </a>
 </p>
 
@@ -81,7 +81,7 @@
   </a>
 </p>
 
-### 🤖 AI & Tools
+### 🤖 Tools
 <p align="center">
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-%234A5A84.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" title="Postman"/>
@@ -105,4 +105,5 @@
 </p>
 
 ---
+
 
