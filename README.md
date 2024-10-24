@@ -38,7 +38,35 @@
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### 🛠️ Databases and Frameworks
+### 🛠️ Databases, Frameworks, and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/b
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%234A5A84.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F7E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Materialize-%23EE6E73.svg?style=for-the-badge&logo=material-design&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sireesha0904&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
