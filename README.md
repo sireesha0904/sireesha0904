@@ -28,7 +28,7 @@
 
 ## 🌟 About Me
 
-<p align="center" style="max-width: 600px;">
+<p align="center" style="max-width: 600px; font-size: 1.1em;">
   👩‍💻 I’m a **Computer Science Engineering** student with a passion for **Full Stack Development** and **AI**.<br>
   🌱 Currently learning advanced **Full Stack Development** techniques.<br>
   🎯 Interested in **AI Integration** in web applications and exploring prompt engineering.
@@ -55,15 +55,18 @@
 
 ---
 
-## 📈 Projects
+## 📊 GitHub Stats
 
-- **[Parking Space Finder](link-to-your-project)**: A web application to find and book parking slots.
-- **[Your Second Project](link-to-your-project)**: Brief description of the project.
-- **[Your Third Project](link-to-your-project)**: Brief description of the project.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sireesha0904&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ---
-
-## 📝 Blog Posts
-
-- **[How I Built My Portfolio](link-to-your-blog-post)**: Share your experience and challenges.
-- **[Learning Angular](link-to-your-blog-post)**: Insights on your journey with Angular.
