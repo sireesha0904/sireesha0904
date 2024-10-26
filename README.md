@@ -19,13 +19,13 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-👩‍💻 **Hello! I'm Modi Sireesha**, a passionate **Computer Science Engineering student** dedicated to mastering the art of **Full Stack Development** and exploring the innovative realms of **Artificial Intelligence**.
+👩‍💻 Hello! I'm Modi Sireesha, a passionate Computer Science Engineering student dedicated to mastering the art of Full Stack Development and exploring the innovative realms of Artificial Intelligence.
 <br><br>
-🌱 Currently, I'm diving deep into advanced **Full Stack Development techniques**, enhancing my skills in creating seamless, user-centric applications that bridge the gap between front-end aesthetics and back-end efficiency.
+🌱 Currently, I'm diving deep into advanced Full Stack Development techniques, enhancing my skills in creating seamless, user-centric applications that bridge the gap between front-end aesthetics and back-end efficiency.
 <br><br>
-🎯 With a keen interest in **AI Integration** within web applications, I am excited about leveraging machine learning and AI technologies to create intelligent solutions that enhance user experiences. I thrive on exploring **prompt engineering**, seeking innovative ways to make applications smarter and more intuitive.
+🎯 With a keen interest in AI Integration within web applications, I am excited about leveraging machine learning and AI technologies to create intelligent solutions that enhance user experiences. I thrive on exploring prompt engineering, seeking innovative ways to make applications smarter and more intuitive.
 <br><br>
-💡 **My journey is fueled by curiosity and a relentless pursuit of knowledge**. I believe in the power of technology to transform lives, and I am eager to contribute to projects that make a meaningful impact. Let's connect and explore the endless possibilities of technology together!
+💡 My journey is fueled by curiosity and a relentless pursuit of knowledge. I believe in the power of technology to transform lives, and I am eager to contribute to projects that make a meaningful impact. Let's connect and explore the endless possibilities of technology together!
 </p>
 
 ---
@@ -97,3 +97,24 @@
 </p>
 
 ---
+
+<style>
+  h1 {
+    animation: fadeIn 1.5s;
+  }
+
+  h2 {
+    animation: fadeIn 1.5s;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
