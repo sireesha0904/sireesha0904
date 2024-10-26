@@ -11,12 +11,12 @@
   <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://twitter.com/_sireeshamodi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-@_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://instagram.com/sireesha_modi" target="_blank"><img src="https://img.shields.io/badge/Instagram-@sireesha_modi-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Here-blue?style=for-the-badge&logo=portfolio" alt="Portfolio"></a>
+  <a href="https://modisireesha-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Here-blue?style=for-the-badge&logo=portfolio" alt="Portfolio"></a>
 </p>
 
 ---
 
-### About Me
+<h2 align="center">About Me</h2>
 
 👩‍💻 **Hello! I'm Modi Sireesha**, a passionate **Computer Science Engineering student** dedicated to mastering the art of **Full Stack Development** and exploring the innovative realms of **Artificial Intelligence**.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Skills
+<h2 align="center">🚀 Skills</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -83,7 +83,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
@@ -95,4 +95,3 @@
 </p>
 
 ---
-
