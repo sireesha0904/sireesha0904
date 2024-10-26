@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Modi Sireesha! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=30&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/3o7bu3Xy6cJ8g2f7N2/giphy.gif" alt="Welcome Animation" width="400"/>
 </p>
 
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI Enthusiast</h3>
@@ -16,19 +16,21 @@
 
 ---
 
-### About Me
+<h2 align="center">About Me</h2>
 
+<p align="center">
 👩‍💻 **Hello! I'm Modi Sireesha**, a passionate **Computer Science Engineering student** dedicated to mastering the art of **Full Stack Development** and exploring the innovative realms of **Artificial Intelligence**.
-
+<br><br>
 🌱 Currently, I'm diving deep into advanced **Full Stack Development techniques**, enhancing my skills in creating seamless, user-centric applications that bridge the gap between front-end aesthetics and back-end efficiency.
-
+<br><br>
 🎯 With a keen interest in **AI Integration** within web applications, I am excited about leveraging machine learning and AI technologies to create intelligent solutions that enhance user experiences. I thrive on exploring **prompt engineering**, seeking innovative ways to make applications smarter and more intuitive.
-
+<br><br>
 💡 **My journey is fueled by curiosity and a relentless pursuit of knowledge**. I believe in the power of technology to transform lives, and I am eager to contribute to projects that make a meaningful impact. Let's connect and explore the endless possibilities of technology together!
+</p>
 
 ---
 
-## 🚀 Skills
+<h2 align="center">🚀 Skills</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -83,7 +85,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
@@ -95,4 +97,3 @@
 </p>
 
 ---
-
