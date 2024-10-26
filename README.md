@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://twitter.com/_sireeshamodi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-@_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://instagram.com/sireesha_modi" target="_blank"><img src="https://img.shields.io/badge/Instagram-@sireesha_modi-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -105,5 +106,4 @@
 </p>
 
 ---
-
 
