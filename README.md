@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Modi Sireesha ! 👋</h1>
+<h1 align="center">Hi there, I'm Modi Sireesha ! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=30&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
