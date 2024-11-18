@@ -30,7 +30,7 @@
 <h2 align="center">🚀 Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman" alt="Skills" width="600">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=7" alt="Skills" width="700">
 </div>
 
 ---
@@ -44,6 +44,14 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sireesha0904&theme=radical" alt="GitHub Streak Stats" width="800">
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=radical&bg_color=000000&color=FFFFFF&line=FF5733&point=FFFFFF" alt="Contribution Graph" width="800">
 </div>
 
 ---
@@ -62,13 +70,4 @@
 
 <p align="center">
   I'm not just about code; I love exploring creative solutions and making technology accessible to everyone!
-</p>
-
----
-
-<h2 align="center">🎨 Customized Themes</h2>
-
-<p align="center">
-  🌟 Themed with material-palenight for a vibrant and creative look!  
-  🎨 Colors are carefully chosen for consistency and readability across all platforms.
 </p>
