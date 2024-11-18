@@ -1,17 +1,34 @@
-<h1 align="center">Hi there, I'm Modi Sireesha 👋</h1>
+<!-- Dynamic Typing Effect Header -->
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #ff5f6d, #ffc371); -webkit-background-clip: text; color: transparent;">
+    Hi there, I'm Modi Sireesha 👋
+  </span>
+</h1>
 
+<!-- Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=30&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
 </p>
 
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI Enthusiast</h3>
 
+<!-- Contact Badges with Hover Effect -->
 <p align="center">
-  <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/_sireeshamodi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-@_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="https://instagram.com/sireesha_modi" target="_blank"><img src="https://img.shields.io/badge/Instagram-@sireesha_modi-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
-  <a href="https://modisireesha-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Here-blue?style=for-the-badge&logo=portfolio" alt="Portfolio"></a>
+  <a href="mailto:modisireesha09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" width="150">
+  </a>
+  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="150">
+  </a>
+  <a href="https://twitter.com/_sireeshamodi_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" width="150">
+  </a>
+  <a href="https://instagram.com/sireesha_modi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@sireesha_modi-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" width="150">
+  </a>
+  <a href="https://modisireesha-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Here-blue?style=for-the-badge&logo=portfolio" alt="Portfolio" width="150">
+  </a>
 </p>
 
 ---
@@ -19,10 +36,9 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  👩‍💻 I'm Modi Sireesha, a dedicated Computer Science Engineering student with a passion for Full Stack Development and Artificial Intelligence.  
-  🌱 I'm currently honing my skills in advanced Full Stack techniques, creating user-centric applications, and integrating AI technologies.  
-  🎯 My interests include building intelligent solutions through AI and exploring prompt engineering to enhance user experiences.  
-  💡 Technology inspires me, and I'm always eager to work on impactful projects!
+  👩‍💻 I'm Modi Sireesha, a passionate Computer Science Engineering student focused on Full Stack Development, Artificial Intelligence, and Prompt Engineering.  
+  🌱 I'm currently working on building dynamic, AI-powered applications and constantly exploring new technologies to enhance user experiences.  
+  💡 I believe in the power of technology to make the world a better place.
 </p>
 
 ---
@@ -59,9 +75,15 @@
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://modisireesha-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Here-green?style=for-the-badge&logo=portfolio" alt="Portfolio"></a>
+  <a href="mailto:modisireesha09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" width="150">
+  </a>
+  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="150">
+  </a>
+  <a href="https://modisireesha-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Here-green?style=for-the-badge&logo=portfolio" alt="Portfolio" width="150">
+  </a>
 </p>
 
 ---
@@ -69,5 +91,5 @@
 <h2 align="center">✨ Fun Fact</h2>
 
 <p align="center">
-  I'm not just about code; I love exploring creative solutions and making technology accessible to everyone!
+  I'm a firm believer in the power of technology to make a positive difference, and I enjoy learning and creating projects that reflect this passion!
 </p>
