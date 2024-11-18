@@ -1,18 +1,19 @@
-<!-- Stylish Header with Background Image and Gradient Effect -->
+<!-- Background Image Section -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84835172/196039847-b72d0ef9-7ef4-433f-b855-2820d7003d99.png" width="100%" alt="background"/>
 </p>
 
-<!-- Dynamic and Engaging Header -->
-<h1 align="center" style="font-size: 4em; font-family: 'Montserrat', sans-serif; color: transparent; background: linear-gradient(90deg, #a445b2, #ff5f6d, #ffc371); -webkit-background-clip: text; text-align: center; transition: all 0.3s ease-in-out;">
+<!-- Stylish Header with Gradient Text -->
+<h1 align="center" style="font-size: 4em; font-family: 'Montserrat', sans-serif; color: transparent; background: linear-gradient(90deg, #a445b2, #ff5f6d, #ffc371); -webkit-background-clip: text; text-align: center; padding: 50px; transition: all 0.3s ease-in-out;">
   Hi, I'm Modi Sireesha 👋
 </h1>
 
-<!-- Typing Animation with Hover Effect -->
+<!-- Typing Animation for a Dynamic Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=30&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG" style="transition: all 0.3s ease-in-out;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=30&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG" style="transition: all 0.3s ease-in-out;"/>
 </p>
 
+<!-- Dynamic Subtitle Section -->
 <h3 align="center" style="font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 1.8em; color: #7A1CAC;">Computer Science Engineering Student | Full Stack Developer | AI Enthusiast</h3>
 
 ---
