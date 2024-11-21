@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Modi Sireesha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=30&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
 </p>
 
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI Enthusiast</h3>
@@ -11,9 +11,9 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  👩‍💻 I'm Modi Sireesha, a dedicated Computer Science Engineering student with a passion for Full Stack Development and Artificial Intelligence.  
-  🌱 I'm currently honing my skills in advanced Full Stack techniques, creating user-centric applications, and integrating AI technologies.  
-  🎯 My interests include building intelligent solutions through AI and exploring prompt engineering to enhance user experiences.  
+  👩‍💻 I'm Modi Sireesha, a dedicated Computer Science Engineering student with a passion for Full Stack Development and Artificial Intelligence.<br>
+  🌱 Currently honing my skills in advanced Full Stack techniques, creating user-centric applications, and integrating AI technologies.<br>
+  🎯 My interests include building intelligent solutions through AI and exploring prompt engineering to enhance user experiences.<br>
   💡 Technology inspires me, and I'm always eager to work on impactful projects!
 </p>
 
@@ -22,7 +22,7 @@
 <h2 align="center">🚀 Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=7" alt="Skills" width="700">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=6" alt="Skills" width="600">
 </div>
 
 ---
@@ -30,12 +30,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="360">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="360">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sireesha0904&theme=radical" alt="GitHub Streak Stats" width="800">
+  <img src="https://streak-stats.demolab.com/?user=sireesha0904&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="750">
 </div>
 
 ---
@@ -43,7 +43,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=radical&bg_color=000000&color=FFFFFF&line=FF5733&point=FFFFFF" alt="Contribution Graph" width="800">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=radical&bg_color=0D1117&color=A445B2&line=FF5733&point=FFFFFF" alt="Contribution Graph" width="750">
 </div>
 
 ---
