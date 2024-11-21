@@ -30,10 +30,12 @@
 </div>
 
 ---
-<h2 align="center">📈 Contribution Graph</h2>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=radical&bg_color=0D1117&color=A445B2&line=FF5733&point=FFFFFF" alt="Contribution Graph" width="750">
+  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="450">
 </div>
 
 ---
