@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://modisireesha-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Here-green?style=for-the-badge&logo=portfolio"></a>
-  <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
