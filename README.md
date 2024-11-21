@@ -34,9 +34,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="360">
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sireesha0904&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="750">
-</div>
+---
+
+<h2 align="center">🌉 Bridges</h2>
+
+<p align="center">
+  🔹 Total Commits: **[Insert Total Commit Count]**<br>
+  🔹 Open Source Contributions: **[Insert Contribution Count]**<br>
+  🔹 Projects Worked On: **[Insert Project Count]**<br>
+  🔹 Collaborative Repositories: **[Insert Collaborative Repo Count]**<br>
+</p>
 
 ---
 
