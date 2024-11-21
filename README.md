@@ -31,12 +31,27 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🌉 Bridges</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="450">
+<div align="center" style="font-size: 18px; line-height: 1.8; color: #EBD3F8; background: linear-gradient(90deg, #a445b2, #d41872, #ff5f6d); padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); width: 80%; margin: auto;">
+  <p>
+    <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Total Commits" style="vertical-align: middle;"> 
+    <strong>Total Commits:</strong> <span style="color: #fff;">900+</span>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/open-source.png" alt="Open Source Contributions" style="vertical-align: middle;"> 
+    <strong>Open Source Contributions:</strong> <span style="color: #fff;">50+</span>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/fluency/48/000000/project.png" alt="Projects Worked On" style="vertical-align: middle;"> 
+    <strong>Projects Worked On:</strong> <span style="color: #fff;">15+</span>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-collaboration-coding-and-development-flaticons-lineal-color-flat-icons.png" alt="Collaborative Repositories" style="vertical-align: middle;"> 
+    <strong>Collaborative Repositories:</strong> <span style="color: #fff;">5+</span>
+  </p>
 </div>
+
 
 ---
 
