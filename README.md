@@ -24,7 +24,7 @@
 <h2 align="center">🚀 Skills & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=7" alt="Skills" width="700">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=7" alt="Skills" width="500">
 </div>
 
 ---
@@ -32,8 +32,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="400">
 </div>
 
 ---
