@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Modi Sireesha!</h1>
 
+https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor
 
 
 <p align="center">
