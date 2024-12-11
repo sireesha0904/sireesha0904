@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Modi Sireesha!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
-</p>
+
 
 <p align="center">
   <a href="https://modisireesha-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/About Me-Visit%20Here-green?style=for-the-badge&logo=portfolio"></a>
