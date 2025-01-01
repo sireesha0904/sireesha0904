@@ -1,11 +1,13 @@
 <h1 align="center">👋 Hi there, I'm Modi Sireesha!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing Animation">
 </p>
 
 <p align="center">
-  <a href="https://modisireesha-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/About Me-Visit%20Here-green?style=for-the-badge&logo=portfolio"></a>
+  <a href="https://modisireesha-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/About Me-Visit%20Here-green?style=for-the-badge&logo=portfolio" alt="About Me Badge">
+  </a>
 </p>
 
 ---
@@ -24,7 +26,7 @@
 <h2 align="center">🚀 Skills & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=7" alt="Skills" width="500">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=7" alt="Skills">
 </div>
 
 ---
@@ -41,7 +43,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=radical&bg_color=0D1117&color=A445B2&line=FF5733&point=FFFFFF" alt="Contribution Graph" width="750">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=react-dark&bg_color=0D1117&color=A445B2&line=FF5733&point=FFFFFF" alt="Contribution Graph">
 </div>
 
 ---
@@ -49,10 +51,18 @@
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://twitter.com/_sireeshamodi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-@_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://instagram.com/sireesha_modi" target="_blank"><img src="https://img.shields.io/badge/Instagram-@sireesha_modi-E4405F?style=for-the-badge&logo=instagram"></a>
-  <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/_sireeshamodi_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter">
+  </a>
+  <a href="https://instagram.com/sireesha_modi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@sireesha_modi-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="mailto:modisireesha09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
@@ -60,7 +70,7 @@
 <h2 align="center">✨ Fun Fact</h2>
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x250?text=Your+Unique+Animation+GIF" alt="Fun Fact Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl Animation" width="300">
 </div>
 
 <p align="center">
