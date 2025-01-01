@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://modisireesha-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/About Me-Visit%20Here-green?style=for-the-badge&logo=portfolio" alt="About Me Badge">
+    <img src="https://img.shields.io/badge/About%20Me-Visit%20Here-green?style=for-the-badge&logo=portfolio" alt="About Me Badge">
   </a>
 </p>
 
@@ -16,9 +16,9 @@
 
 <p align="justify">
   👩‍💻 I’m a Computer Science Engineering student passionate about creating impactful software solutions.<br>
-  🌱 I’m currently exploring advanced Full Stack development and integrating AI-driven innovations.<br>
-  🎯 My goal is to design and build user-centric applications and contribute to open-source projects.<br>
-  💡 I thrive on solving complex problems and continuously learning new technologies.
+  🌱 Currently diving deep into Full Stack development and exploring AI innovations.<br>
+  🎯 My goal is to design user-friendly applications and contribute to open-source projects.<br>
+  💡 Always eager to solve challenges and continuously expand my knowledge in tech.
 </p>
 
 ---
@@ -70,7 +70,7 @@
 <h2 align="center">✨ Fun Fact</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl Animation" width="300">
+  <img src="https://media.giphy.com/media/Ju7lRPhC4bH2A/giphy.gif" alt="Girl Programmer GIF" width="400">
 </div>
 
 <p align="center">
