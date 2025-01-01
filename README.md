@@ -74,5 +74,5 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WSbG5Z9yovKpYg6z4r/giphy.gif" alt="Girl Programmer GIF" width="400">
+  <img src="https://media.giphy.com/media/l0HlQ7G5U9VVZ5ubm/giphy.gif" alt="Girl Programmer GIF" width="400">
 </div>
