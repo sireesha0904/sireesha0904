@@ -1,28 +1,28 @@
-<h1 align="center">👋 Hi there, I'm Modi Sireesha!</h1>
+<h1 align="center">🌸 Hi there, I'm Modi Sireesha! 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23D41872&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor;Tech+Dreamer" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://modisireesha-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Here-green?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20Here-%23FF69B4?style=for-the-badge&logo=vercel">
   </a>
 </p>
 
 ---
 
-<h2 align="center">✨ About Me</h2>
+<h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/222086290-9d7c2b9e-3c2d-4b37-bf78-9d3dc62ab0f7.gif" alt="About Me Gif" width="600">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" alt="Girl Developer Animation" width="400">
 </p>
 
 <p align="center">
-  👩‍💻 I’m a Computer Science Engineering student passionate about creating impactful software solutions.<br>
+  👩‍🎓 I’m a Computer Science Engineering student passionate about creating impactful software solutions.<br>
   🌱 I’m currently exploring advanced Full Stack development and integrating AI-driven innovations.<br>
-  🎯 My goal is to design and build user-centric applications and contribute to open-source projects.<br>
-  💡 I thrive on solving complex problems and continuously learning new technologies.
+  💻 My goal is to design user-centric applications and contribute to open-source projects.<br>
+  ✨ I enjoy solving challenges, bringing creativity to my work, and learning new technologies every day.
 </p>
 
 ---
@@ -47,7 +47,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=react-dark&bg_color=0D1117&color=A445B2&line=FF5733&point=FFFFFF" alt="Contribution Graph" width="750">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=react-dark&bg_color=0D1117&color=D41872&line=FF5733&point=FFFFFF" alt="Contribution Graph" width="750">
 </p>
 
 ---
@@ -59,13 +59,13 @@
     <img src="https://img.shields.io/badge/Twitter-%40_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter">
   </a>
   <a href="https://instagram.com/sireesha_modi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40sireesha_modi-E4405F?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-%40sireesha_modi-%23FF69B4?style=for-the-badge&logo=instagram">
   </a>
   <a href="mailto:modisireesha09@gmail.com">
     <img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
@@ -74,9 +74,9 @@
 <h2 align="center">✨ Fun Fact</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="300">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="Fun Animation" width="300">
 </p>
 
 <p align="center">
-  Coding is my superpower, and my creativity knows no bounds!
+  Coding is my superpower, and my creativity adds the magic!
 </p>
