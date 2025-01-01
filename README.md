@@ -1,7 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Modi Sireesha!</h1>
+<h1 align="center">👋 Hi there, I'm Modi Sireesha!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=3000&color=A445B2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Tech+Innovator;Dreamer+%26+Creator" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://modisireesha-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/About Me-Visit%20Here-green?style=for-the-badge&logo=portfolio"></a>
 </p>
 
 ---
@@ -9,56 +13,56 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="justify">
-  👩‍🎓 I'm a Computer Science Engineering Student passionate about technology and problem-solving.<br>
-  💻 I specialize in Full Stack Development with Angular, Spring, and IoT.<br>
-  ✨ I love creating innovative, user-centric applications and exploring new technologies.<br>
-  🌱 Currently enhancing my skills in advanced Full Stack Development and AI-driven projects.
+  👩‍💻 I’m a Computer Science Engineering student passionate about creating impactful software solutions.<br>
+  🌱 I’m currently exploring advanced Full Stack development and integrating AI-driven innovations.<br>
+  🎯 My goal is to design and build user-centric applications and contribute to open-source projects.<br>
+  💡 I thrive on solving complex problems and continuously learning new technologies.
 </p>
 
 ---
 
 <h2 align="center">🚀 Skills & Tools</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,spring,python,mysql,mongodb,aws,postman&perline=6" alt="Skills" width="600">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=7" alt="Skills" width="500">
+</div>
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="400">
-</p>
+</div>
 
 ---
 
 <h2 align="center">📈 Contribution Graph</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireesha0904&theme=radical&bg_color=0D1117&color=A445B2&line=FF5733&point=FFFFFF" alt="Contribution Graph" width="750">
-</p>
+</div>
 
 ---
 
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://twitter.com/_sireeshamodi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://instagram.com/sireesha_modi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40sireesha_modi-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://twitter.com/_sireeshamodi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-@_sireeshamodi_-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://instagram.com/sireesha_modi" target="_blank"><img src="https://img.shields.io/badge/Instagram-@sireesha_modi-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
 <h2 align="center">✨ Fun Fact</h2>
 
-<p align="center">
-  When I'm not coding, you'll find me imagining new worlds or dreaming up fresh ideas!
-</p>
+<div align="center">
+  <img src="https://via.placeholder.com/400x250?text=Your+Unique+Animation+GIF" alt="Fun Fact Animation">
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl Coding Animation" width="500">
+  When I’m not coding, you’ll find me imagining new worlds or dreaming up fresh ideas!
 </p>
