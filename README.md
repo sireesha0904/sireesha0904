@@ -69,10 +69,10 @@
 
 <h2 align="center">✨ Fun Fact</h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Ju7lRPhC4bH2A/giphy.gif" alt="Girl Programmer GIF" width="400">
-</div>
-
 <p align="center">
-  When I’m not coding, you’ll find me imagining new worlds or dreaming up fresh ideas!
+  I’m not just a coder, I’m a creator of digital worlds! I believe that every line of code can change the world, one solution at a time. 💻✨
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPB8t5g7gx06oUo/giphy.gif" alt="Girl Programmer GIF" width="400">
+</div>
