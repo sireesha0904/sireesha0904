@@ -70,7 +70,7 @@
 <h2 align="center">✨ Fun Fact</h2>
 
 <p align="center">
-  When I’m not coding, I’m probably dreaming up new digital worlds or crafting the next big idea. For me, coding is not just a skill—it’s a superpower! 💻🚀
+  I believe every line of code brings us closer to creating something amazing! 💻💡
 </p>
 
 <div align="center">
