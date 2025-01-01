@@ -70,9 +70,9 @@
 <h2 align="center">✨ Fun Fact</h2>
 
 <p align="center">
-  I’m not just a coder, I’m a creator of digital worlds! I believe that every line of code can change the world, one solution at a time. 💻✨
+  When I’m not coding, I’m probably dreaming up new digital worlds or crafting the next big idea. For me, coding is not just a skill—it’s a superpower! 💻🚀
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPB8t5g7gx06oUo/giphy.gif" alt="Girl Programmer GIF" width="400">
+  <img src="https://media.giphy.com/media/xT5LMT9s7VgaF0jTi0/giphy.gif" alt="Girl Programmer GIF" width="400">
 </div>
