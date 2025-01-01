@@ -8,7 +8,7 @@
 
 <h2 align="center">🌟 About Me</h2>
 
-<p align="center">
+<p align="justify">
   👩‍🎓 I'm a Computer Science Engineering Student passionate about technology and problem-solving.<br>
   💻 I specialize in Full Stack Development with Angular, Spring, and IoT.<br>
   ✨ I love creating innovative, user-centric applications and exploring new technologies.<br>
