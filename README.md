@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=3000&color=A445B2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Tech+Innovator;Dreamer+%26+Creator" alt="Typing Animation">
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500">
-</div>
-
 ---
 
 <h2 align="center">🌟 About Me</h2>
@@ -61,4 +57,8 @@
 
 <p align="center">
   When I'm not coding, you'll find me imagining new worlds or dreaming up fresh ideas!
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl Coding Animation" width="500">
 </p>
