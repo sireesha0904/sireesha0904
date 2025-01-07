@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center">🌟 All About Me</h2>
 
 <p align="justify">
   👩‍💻 I’m a Computer Science Engineering student passionate about creating impactful software solutions.<br>
