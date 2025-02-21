@@ -72,6 +72,3 @@
   I believe every line of code brings us closer to creating something amazing! 💻💡
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7G5U9VVZ5ubm/giphy.gif" alt="Girl Programmer GIF" width="400">
-</div>
