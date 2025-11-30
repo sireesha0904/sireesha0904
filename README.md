@@ -39,9 +39,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sireesha0904&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical" alt="Top Languages" width="400">
+
+  <img src="https://streak-stats.demolab.com?user=sireesha0904&theme=radical&hide_border=false" width="450" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireesha0904&layout=compact&theme=radical&cache_seconds=86400" width="400" />
+
 </div>
+
 
 ---
 
