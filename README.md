@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Modi Sireesha!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A445B2&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SAP+ABAP+Developer;SAP+Fiori+Certified;AI+Enthusiast;Prompt+Engineer;Open+Source+Contributor" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -15,8 +15,9 @@
 
 <p align="justify">
   👩‍💻 I’m a Computer Science Engineering student passionate about creating impactful software solutions.<br>
-  🌱 Currently diving deep into Full Stack development and exploring AI innovations.<br>
-  🎯 My goal is to design user-friendly applications and contribute to open-source projects.<br>
+  🌱 Currently diving deep into Full Stack development, SAP ABAP, and SAP Fiori.<br>
+  🎓 I am <strong>Globally Certified in SAP ABAP and SAP Fiori</strong>.<br>
+  🎯 My goal is to design user-friendly applications and contribute to open-source and SAP ecosystems.<br>
   💡 Always eager to solve challenges and continuously expand my knowledge in tech.
 </p>
 
@@ -26,6 +27,11 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,python,spring,mysql,mongodb,sqlite,aws,postman&perline=7" alt="Skills">
+
+  <!-- SAP Icons Row -->
+  <br><br>
+  <img src="https://img.shields.io/badge/SAP-ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </div>
 
 ---
@@ -71,4 +77,3 @@
 <p align="center">
   I believe every line of code brings us closer to creating something amazing! 💻💡
 </p>
-
